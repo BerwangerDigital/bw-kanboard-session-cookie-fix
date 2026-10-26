@@ -31,3 +31,7 @@ Once a Kanboard release expires the old cookie by itself, delete the `plugins/Se
 
 - Kanboard >= 1.2.55
 - Any database driver
+
+## License
+
+MIT, see [LICENSE](LICENSE).
